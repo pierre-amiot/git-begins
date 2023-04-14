@@ -1,0 +1,5 @@
+git clone https://github.com/pierre-amiot/git-begin.git
+
+git add .
+git commit -m "Votre message de commit ici"
+git push
